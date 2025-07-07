@@ -93,7 +93,7 @@ I specialize in Azure Data Factory, Databricks, Synapse Analytics, and Python de
 ---
 
 ## 📫 Reach Me
-- 📍 **Location**: Dehradun, India  
+- 📍 **Location**: Nainital, India  
 - 📧 **Email**: sanjubisht7@gmail.com  
 - 🔗 **LinkedIn**: [linkedin.com/in/sanjaysinghbisht19940220](https://www.linkedin.com/in/sanjaysinghbisht19940220/)  
 - 🧑‍💻 **GitHub**: [github.com/sanjaybisht18/SBbytebuilder](https://github.com/sanjaybisht18/SBbytebuilder)
