@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sanjay Singh Bisht
 
-I'm a Data Engineer with 2.9 years of experience in building robust data pipelines, analytics solutions, and modern cloud-based architectures.  
+I'm a Data Engineer with 5.8 years of experience in building robust data pipelines, analytics solutions, and modern cloud-based architectures.  
 
 I specialize in Azure Data Factory, Databricks, Synapse Analytics, and Python development to deliver real-time, scalable, and insightful data systems.
 
@@ -100,7 +100,7 @@ I specialize in Azure Data Factory, Databricks, Synapse Analytics, and Python de
 
 - 🔗 LinkedIn: [linkedin.com/in/sanjay-singh-bisht](#) *(Add your real LinkedIn URL)*  
 
-- 🧑‍💻 GitHub: [github.com/yourusername](https://github.com/yourusername)
+- 🧑‍💻 GitHub: [github.com/yourusername](https://github.com/sanjubisht18)
 
 ---
 > I believe in clear and responsive communication throughout the project lifecycle.  
