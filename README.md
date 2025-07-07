@@ -96,9 +96,9 @@ I specialize in Azure Data Factory, Databricks, Synapse Analytics, and Python de
 
 - 📧 Email: sanjubisht7@gmail.com  
 
-- 📍 Location: Dehradun, India (IST)  
+- 📍 Location: Uttarakhand, India (IST)  
 
-- 🔗 LinkedIn: [linkedin.com/in/sanjay-singh-bisht](#) *(Add your real LinkedIn URL)*  
+- 🔗 LinkedIn: [linkedin.com/in/sanjay-singh-bisht](https://www.linkedin.com/in/sanjay-singh-bisht-b8296178/)
 
 - 🧑‍💻 GitHub: [github.com/yourusername](https://github.com/sanjubisht18)
 
