@@ -98,7 +98,3 @@ I specialize in Azure Data Factory, Databricks, Synapse Analytics, and Python de
 - 🔗 **LinkedIn**: [linkedin.com/in/sanjaysinghbisht19940220](https://www.linkedin.com/in/sanjaysinghbisht19940220/)  
 - 🧑‍💻 **GitHub**: [github.com/sanjaybisht18/SBbytebuilder](https://github.com/sanjaybisht18/SBbytebuilder)
 
----
-> I believe in clear and responsive communication throughout the project lifecycle.  
-> My deep understanding of data and business needs ensures successful collaboration.
- 
