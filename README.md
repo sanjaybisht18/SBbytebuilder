@@ -92,24 +92,6 @@ I specialize in Azure Data Factory, Databricks, Synapse Analytics, and Python de
 
 ---
 
-### 🎓 Education:
-
-- MCA – Uttarakhand Technical University, Dehradun  
-
-- BCA – Kumaun University, Nainital  
-
----
-
-### 🏆 Achievements:
-
-- Participated in national & international tech conferences at COER, Roorkee  
-
-- Completed 1-Year Data Science Certification from Ducat  
-
-- Regularly involved in knowledge-sharing and hackathons
-
----
-
 ### 📫 Reach Me:
 
 - 📧 Email: sanjubisht7@gmail.com  
